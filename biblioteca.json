@@ -1,0 +1,199 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "nome": "Ficção"
+    },
+    {
+      "id": 2,
+      "nome": "Não Ficção"
+    },
+    {
+      "id": 3,
+      "nome": "História"
+    },
+    {
+      "nome": "Drama",
+      "id": 4
+    },
+    {
+      "nome": "Ficção Científica",
+      "id": 5
+    },
+    {
+      "nome": "Ficção Científica",
+      "id": 6
+    },
+    {
+      "nome": "Ficção Científica",
+      "id": 7
+    },
+    {
+      "nome": "Mistério e Suspense",
+      "id": 8
+    },
+    {
+      "nome": "Mistério e Suspense",
+      "id": 9
+    },
+    {
+      "nome": "Mistério e Suspense",
+      "id": 10
+    },
+    {
+      "titulo": "O Morro dos Ventos Uivantes",
+      "autor": "Stephen",
+      "anoPublicacao": 1986,
+      "isbn": "978-85-359-0278-1",
+      "disponivel": false,
+      "categoriaId": 4,
+      "id": 15
+    }
+  ],
+  "livros": [
+    {
+      "id": 1,
+      "titulo": "Dom Quixote",
+      "autor": "Miguel de Cervantes",
+      "anoPublicacao": 1605,
+      "isbn": "978-85-359-0277-3",
+      "disponivel": true,
+      "categoriaId": 1
+    },
+    {
+      "id": 2,
+      "titulo": "Origens",
+      "autor": "Neil deGrasse Tyson",
+      "anoPublicacao": 2017,
+      "isbn": "978-85-359-0650-4",
+      "disponivel": true,
+      "categoriaId": 2
+    },
+    {
+      "id": 3,
+      "titulo": "Uma Breve História do Tempo",
+      "autor": "Stephen Hawking",
+      "anoPublicacao": 1988,
+      "isbn": "978-85-359-0278-0",
+      "disponivel": false,
+      "categoriaId": 2
+    },
+    {
+      "titulo": "O Morro dos Ventos Uivantes",
+      "autor": "Stephen",
+      "anoPublicacao": 1986,
+      "isbn": "978-85-359-0278-1",
+      "disponivel": false,
+      "categoriaId": 3,
+      "id": 5
+    },
+    {
+      "titulo": "A Garota com a Tatuagem de Dragão",
+      "autor": "Stephen Hf",
+      "anoPublicacao": 1976,
+      "isbn": "978-85-359-0278-8",
+      "disponivel": false,
+      "categoriaId": 4,
+      "id": 6
+    },
+    {
+      "titulo": "Gone Girl",
+      "autor": "Gillian Flynn",
+      "anoPublicacao": 1976,
+      "isbn": "978-85-359-0278-8",
+      "disponivel": false,
+      "categoriaId": 5,
+      "id": 7
+    },
+    {
+      "titulo": "A Mulher na Janela",
+      "autor": "A.J. Finn",
+      "anoPublicacao": 1979,
+      "isbn": "978-85-359-0278-4",
+      "disponivel": false,
+      "categoriaId": 6,
+      "id": 8
+    },
+    {
+      "titulo": "Sherlock Holmes",
+      "autor": "Arthur Conan Doyle",
+      "anoPublicacao": 1859,
+      "isbn": "978-85-359-0358-4",
+      "disponivel": false,
+      "categoriaId": 7,
+      "id": 9
+    },
+    {
+      "titulo": "O Colecionador",
+      "autor": "Arthur Conan Doyle",
+      "anoPublicacao": 1849,
+      "isbn": "978-85-239-0358-4",
+      "disponivel": false,
+      "categoriaId": 8,
+      "id": 10
+    },
+    {
+      "titulo": "O Lobo do Mar",
+      "autor": " Jack London",
+      "anoPublicacao": 5849,
+      "isbn": "920-85-239-0358-4",
+      "disponivel": false,
+      "categoriaId": 9,
+      "id": 11
+    },
+    {
+      "titulo": "No Escuro",
+      "autor": "Elizabeth Haynes",
+      "anoPublicacao": 3849,
+      "isbn": "920-87-239-0358-4",
+      "disponivel": false,
+      "categoriaId": 10,
+      "id": 12
+    },
+    {
+      "titulo": "Inferno",
+      "autor": "Dan Brown",
+      "anoPublicacao": 6849,
+      "isbn": "850-87-239-0358-4",
+      "disponivel": false,
+      "categoriaId": 11,
+      "id": 13
+    },
+    {
+      "titulo": "O Pacto",
+      "autor": "Joe Hilll",
+      "anoPublicacao": 9849,
+      "isbn": "860-87-239-7858-4",
+      "disponivel": false,
+      "categoriaId": 12,
+      "id": 14
+    },
+    {
+      "titulo": "O Pacto de Zeus",
+      "autor": "Robert Hilll",
+      "anoPublicacao": 98549,
+      "isbn": "860-87-239-7858-4",
+      "disponivel": false,
+      "categoriaId": 13,
+      "id": 15
+    },
+    {
+      "titulo": "O Pacto de Zeus",
+      "autor": "Robert Hilll",
+      "anoPublicacao": 98549,
+      "isbn": "860-87-239-7858-4",
+      "disponivel": false,
+      "categoriaId": 14,
+      "id": 16
+    },
+    {
+      "titulo": "O Amor",
+      "autor": "Robert Hil",
+      "anoPublicacao": 949,
+      "isbn": "860-87-239-785-4",
+      "disponivel": false,
+      "categoriaId": 4,
+      "id": 15
+    }
+  ]
+}
